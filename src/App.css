@@ -1,0 +1,13 @@
+html,
+body {
+	height: 100%;
+	color:#f1f1f1;
+}
+
+body {
+	margin: 0;
+	background-image: linear-gradient(to right, #226d9e, #3f576e);
+	font-family: sans-serif;
+	font-weight: 100;
+	background-attachment: fixed;
+}
